@@ -42,16 +42,37 @@ function Blog() {
        </div>
         <div className = "col-sm-12 col-md-6 col-lg-6">
          <div className = "w-100 card bg-dark text-white">
-         <div className = "col-md-6">
           <h2>Projects</h2>
           <hr></hr>
            <div className = "row">
-            <div className = "col-md-6">
-             
-            </div>
+         <div className = "col-md-6">
+             <p>Weather Dashboard:</p>
+              <img className = "image" src = "https://i.imgflip.com/4c6b2k.jpg"></img>
+              <a className = "ancorTag" target = "_blank" href="https://scottdouglas238.github.io/Weather_App/"><p>Weather App Link</p></a>
+              <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Weather_App"><p>GitHub Link</p></a>
+           </div>
+           <div className = "col-md-6">
+             <p>Hops and Hounds:</p>
+             <img className = "image" src = "https://i.imgflip.com/4c6c59.jpg"></img>
+             <a className = "ancorTag" target = "_blank" href="https://razzlejazzled.github.io/Project1/"><p>Hops and Hounds link</p></a>
+             <a className = "ancorTag" target = "_blank" href="https://github.com/razzlejazzled/Project1"><p>GitHub Link</p></a>
            </div>
           </div>
-        </div>
+           <div className = "row">
+         <div className = "col-md-6">
+             <p>Day Calender App:</p>
+              <img className = "image" src = "https://i.imgflip.com/4c6ceh.jpg"></img>
+              <a className = "ancorTag" target = "_blank" href="https://scottdouglas238.github.io/Homework-Calender/"><p>Calender App Link</p></a>
+              <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Homework-Calender"><p>GitHub Link</p></a>
+           </div>
+           <div className = "col-md-6">
+             <p>Lord of the Rings Quiz:</p>
+             <img className = "image" src = "https://i.imgflip.com/4c6db8.jpg"></img>
+             <a className = "ancorTag" target = "_blank" href="https://scottdouglas238.github.io/Homework-Quiz/"><p>Quiz Link</p></a>
+             <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Homework-Quiz"><p>GitHub Link</p></a>
+           </div>
+          </div>
+         </div>
         </div>
       </div>
      </div>
