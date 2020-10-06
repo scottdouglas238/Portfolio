@@ -72,6 +72,48 @@ function Blog() {
              <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Homework-Quiz"><p>GitHub Link</p></a>
            </div>
           </div>
+           <div className = "row">
+         <div className = "col-md-6">
+             <p>Note Taker:</p>
+              <img className = "image" src = "https://i.imgflip.com/4fu6o6.jpg"></img>
+              <a className = "ancorTag" target = "_blank" href="https://takenotes123.herokuapp.com/"><p>Heroku Deployed Version</p></a>
+              <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Take_Notes"><p>GitHub Link</p></a>
+           </div>
+           <div className = "col-md-6">
+             <p>Eat_The_Burger:</p>
+             <img className = "image" src = "https://i.imgflip.com/4fu6ci.jpg"></img>
+             <a className = "ancorTag" target = "_blank" href="https://eat-the-burger123.herokuapp.com/"><p>Heroku Deployed Verison</p></a>
+             <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Eat_The_Burger"><p>GitHub Link</p></a>
+           </div>
+          </div>
+           <div className = "row">
+         <div className = "col-md-6">
+             <p>Employee Tracker:</p>
+              <img className = "image" src = "https://i.imgflip.com/4fu730.jpg"></img>
+              <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Employee-Tracker"><p>GitHub Link</p></a>
+              <a className = "ancorTag" target = "_blank" href="https://www.youtube.com/watch?v=KmNHc_PX-24"><p>YouTube Video</p></a>
+           </div>
+           <div className = "col-md-6">
+             <p>Employee Refactor:</p>
+             <img className = "image" src = "https://i.imgflip.com/4fu6hq.jpg"></img>
+             <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Homework-Refactory"><p>GitHub Link</p></a>
+             <a className = "ancorTag" target = "_blank" href="https://www.youtube.com/watch?v=akroIgkatwo"><p>YouTube Video</p></a>
+           </div>
+          </div>
+           <div className = "row">
+         <div className = "col-md-6">
+             <p>Get Stocked:</p>
+              <img className = "image" src = "https://i.imgflip.com/4fu9gu.jpg"></img>
+              <a className = "ancorTag" target = "_blank" href="https://calm-savannah-23723.herokuapp.com/"><p>Get Stocked Link</p></a>
+              <a className = "ancorTag" target = "_blank" href="https://github.com/jmuncrief/p2_stock_dashboard/tree/scott-project2"><p>GitHub Link</p></a>
+           </div>
+           <div className = "col-md-6">
+             <p>Employee Directory:</p>
+             <img className = "image" src = "https://i.imgflip.com/4hhipb.jpg"></img>
+             <a className = "ancorTag" target = "_blank" href="https://romantic-wilson-d7aa2a.netlify.app/"><p>Employee Directory Link</p></a>
+             <a className = "ancorTag" target = "_blank" href="https://github.com/scottdouglas238/Employee-Search"><p>GitHub Link</p></a>
+           </div>
+          </div>
          </div>
         </div>
       </div>
