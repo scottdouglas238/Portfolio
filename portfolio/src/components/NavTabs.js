@@ -44,34 +44,3 @@ function NavTabs() {
   
   export default NavTabs;
   
-  // <nav>
-  // <ul className="nav nav-tabs">
-  //   <li className="nav-item btn-dark">
-  //     <Link
-  //       to="/about"
-  //       className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
-  //     >
-  //       About
-  //     </Link>
-  //   </li>
-  //   <li className="nav-item btn-dark">
-  //     <Link
-  //       to="/blog"
-  //       className={location.pathname === "/blog" ? "nav-link active" : "nav-link"}
-  //     >
-  //       Portfolio
-  //     </Link>
-  //   </li>
-  //   <li className="nav-item btn-dark">
-  //     <Link
-  //       to="/contact"
-  //       className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
-  //     >
-  //       Contact
-  //     </Link>
-  //   </li>
-  //   <div class="form-inline my-2 my-lg-0">
-  // 		<h3>Scott Douglas</h3>
-  // 	  </div>
-  // </ul>
-  //   </nav>

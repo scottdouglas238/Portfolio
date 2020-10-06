@@ -4,6 +4,7 @@ import NavTabs from "./components/NavTabs";
 import About from "./components/pages/About";
 import Portfolio from "./components/pages/Portfolio";
 import Contact from "./components/pages/Contact";
+import Footer from "./components/footer"
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
         <Route exact path="/blog" component={Portfolio} />
         <Route path="/contact" component={Contact} />
       </div>
-    </Router>
+        <Footer />
+    </Router>  
   );
 }
 
