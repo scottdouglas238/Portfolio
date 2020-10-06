@@ -3,9 +3,9 @@ import "../styles/about.css"
 
 function About() {
   return (
-    <div class="container">
-      <div class = "insideCard">
-      <div class = "card bg-dark text-white">
+    <div className ="container">
+      <div className = "insideCard">
+      <div className = "w-75 card bg-dark text-white">
       <h2>About me</h2>
       <hr></hr>
       <div>
