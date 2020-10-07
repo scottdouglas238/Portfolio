@@ -7,8 +7,8 @@ function NavTabs() {
 
   return (
     <div>
-      <nav class="navbar navbar-expand-lg navbar-dark navbar-custom">
-			  <ul class="navbar-nav mr-auto">
+      <nav className="navbar navbar-expand-lg navbar-dark navbar-custom">
+			  <ul className="navbar-nav mr-auto">
         <li className="nav-item btn-dark">
        <Link
         to="/about"
@@ -34,7 +34,7 @@ function NavTabs() {
       </Link>
     </li>
 			  </ul>
-			  <div class="form-inline my-2 my-lg-0">
+			  <div className="form-inline my-2 my-lg-0">
 				<h3>Scott Douglas</h3>
 			  </div>
 		  </nav>

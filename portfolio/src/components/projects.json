@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Weather Dashboard:",
+        "image": "https://i.imgflip.com/4c6b2k.jpg",
+        "Link": "https://scottdouglas238.github.io/Weather_App/",
+        "GitHubLink": "https://github.com/scottdouglas238/Weather_App"
+      },
+    {
+        "id": 2,
+        "title": "Hops and Hounds:",
+        "image": "https://i.imgflip.com/4c6c59.jpg",
+        "Link": "https://razzlejazzled.github.io/Project1/",
+        "GitHubLink": "https://github.com/razzlejazzled/Project1"
+      },
+    {
+        "id": 3,
+        "title": "Day Calender App:",
+        "image": "https://i.imgflip.com/4c6ceh.jpg",
+        "Link": "https://scottdouglas238.github.io/Homework-Calender/",
+        "GitHubLink": "https://github.com/scottdouglas238/Homework-Calender"
+      },
+    {
+        "id": 4,
+        "title": "Lord of the Rings Quiz:",
+        "image": "https://i.imgflip.com/4c6db8.jpg",
+        "Link": "https://scottdouglas238.github.io/Homework-Quiz/",
+        "GitHubLink": "https://github.com/scottdouglas238/Homework-Quiz"
+      },
+    {
+        "id": 5,
+        "title": "Note Taker:",
+        "image": "https://i.imgflip.com/4fu6o6.jpg",
+        "Link": "https://takenotes123.herokuapp.com/",
+        "GitHubLink": "https://github.com/scottdouglas238/Take_Notes"
+      },
+    {
+        "id": 6,
+        "title": "Eat_The_Burger:",
+        "image": "https://i.imgflip.com/4fu6ci.jpg",
+        "Link": "https://eat-the-burger123.herokuapp.com/",
+        "GitHubLink": "https://github.com/scottdouglas238/Eat_The_Burger"
+      },
+    {
+        "id": 7,
+        "title": "Get Stocked:",
+        "image": "https://i.imgflip.com/4fu9gu.jpg",
+        "Link": "https://calm-savannah-23723.herokuapp.com/",
+        "GitHubLink": "https://github.com/jmuncrief/p2_stock_dashboard/tree/scott-project2"
+      },
+    {
+        "id": 8,
+        "title": "Employee Directory:",
+        "image": "https://i.imgflip.com/4hhipb.jpg",
+        "Link": "https://romantic-wilson-d7aa2a.netlify.app/",
+        "GitHubLink": "https://github.com/scottdouglas238/Employee-Search"
+      }
+]
