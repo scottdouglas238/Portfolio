@@ -50,18 +50,13 @@ class Portfolio extends Component {
                 </div>
               </div>
               <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="w-100 card bg-dark text-white">
+                <div id = "pCard" className="w-100 card bg-dark text-white">
                   <h2>Projects</h2>
                   <hr></hr>
                   <div className="row">
                     {this.state.projects.map((project) => (
-                      <Projects 
+                      <Projects {...project}
                       key={project.id}
-                       id={project.id}
-                       title={project.title}
-                       image={project.image}
-                       Link={project.Link}
-                       GitHubLink={project.GitHubLink}
                       />
                     ))}
                   </div>
