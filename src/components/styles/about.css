@@ -17,6 +17,7 @@ hr {
 .card {
     float: left;
     margin-right: 1em;
+    padding-bottom: 32px;
 }
 #aboutP {
     color: white;
